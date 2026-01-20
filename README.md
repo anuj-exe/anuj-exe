@@ -7,60 +7,52 @@
     width="100%"
   />
 </p>
-
-<!-- ====== INTRO ====== -->
-<div align="center">
-  <h2>Hi, I'm Anuj 👋</h2>
-
-  <p>
-    I’m a <b>Computer Science student at Georgia State University (Honors College)</b>,
-    building <b>reliable systems</b>, <b>APIs</b>, and <b>web applications</b>, alongside
-    <b>data pipelines</b> and <b>quantitative experiments</b>.
-  </p>
-
-  <p>
-    My work spans backend and infrastructure-heavy services, API design,
-    frontend web apps, simulation and experimentation, and security-aware systems.
-  </p>
-
-  <p>
-    <a href="https://anuj.io"><b>Website</b></a>
-    &nbsp;•&nbsp;
-    <a href="YOUR_RESUME_LINK"><b>Resume</b></a>
-    &nbsp;•&nbsp;
-    <a href="YOUR_LINKEDIN_LINK"><b>LinkedIn</b></a>
-    &nbsp;•&nbsp;
-    <a href="mailto:anujy1024@gmail.com"><b>Email</b></a>
-  </p>
-</div>
-
-<!-- ====== WHAT I BUILD ====== -->
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>What I build</h3>
-      <ul>
-        <li><b>APIs & Backends:</b> RESTful services, auth flows, server-side logic</li>
-        <li><b>Web Apps:</b> frontend interfaces paired with backend systems</li>
-        <li><b>Systems:</b> reliability, automation, debugging workflows</li>
-        <li><b>Data:</b> ETL pipelines, validation, SQL persistence</li>
-        <li><b>Quant:</b> simulation, multi-seed evaluation, analysis</li>
-        <li><b>Security:</b> OWASP-style testing and mitigation</li>
-      </ul>
-    </td>
-
-    <td valign="top" width="50%">
-      <h3>Tooling</h3>
-      <ul>
-        <li><b>Python</b>, <b>JavaScript</b>, <b>SQL</b></li>
-        <li><b>AWS</b> (EC2, Lambda), <b>Linux</b>, <b>Docker</b></li>
-        <li>API design, logging, monitoring</li>
-        <li>Burp Suite, Nmap</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<p align="center">—</p>
-
 </html>
+
+## Hi there! I’m Anuj Yadav 👋
+
+**Computer Science @ Georgia State University (Honors College)**  
+*Systems • APIs • Data • Quantitative Experimentation*
+
+I build end-to-end systems — from **APIs and web applications** to  
+**data pipelines, simulations, and research infrastructure** — with an emphasis on
+reliability, observability, and security.
+
+---
+
+## 🎯 What I Do
+
+- 🧩 **Backend & APIs** — design and implement RESTful services, auth flows, and server-side logic  
+- 🌐 **Web Applications** — frontend + backend systems that are clean, debuggable, and production-ready  
+- 🧪 **Quantitative Experiments** — simulation, multi-seed evaluation, and performance analysis  
+- 📊 **Data Pipelines** — ETL, scraping, validation, and SQL persistence  
+- 🔐 **Security-Aware Systems** — OWASP-style testing, vulnerability discovery, and threat modeling  
+  *(Burp Suite, Nmap, SAST/DAST tools)*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Software & Systems
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### ☁️ Cloud & Infra
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat)
+
+### 📊 Data & Experiments
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
+### 🔐 Security
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat)
+![Nmap](https://img.shields.io/badge/-Nmap-2E8B57?style=flat)
+![SAST/DAST](https://img.shields.io/badge/-SAST%2FDAST-444444?style=flat)
