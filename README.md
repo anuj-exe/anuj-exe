@@ -22,12 +22,11 @@ reliability, observability, and security.
 
 ## 🎯 What I Do
 
-- 🧩 **Backend & APIs** — design and implement RESTful services, auth flows, and server-side logic  
-- 🌐 **Web Applications** — frontend + backend systems that are clean, debuggable, and production-ready  
-- 🧪 **Quantitative Experiments** — simulation, multi-seed evaluation, and performance analysis  
-- 📊 **Data Pipelines** — ETL, scraping, validation, and SQL persistence  
-- 🔐 **Security-Aware Systems** — OWASP-style testing, vulnerability discovery, and threat modeling  
-  *(Burp Suite, Nmap, SAST/DAST tools)*
+- 🧩 **APIs & Backends** — REST services and server-side logic
+- 🌐 **Web Applications** — frontend + backend systems
+- 📊 **Data & Experiments** — ETL, simulation, and quantitative analysis
+- ☁️ **Systems & Infra** — AWS, Linux, Docker, Raspberry Pi
+- 🔐 **Security-Aware Engineering** — OWASP-style testing (Burp Suite, Nmap)
 
 ---
 
@@ -38,18 +37,27 @@ reliability, observability, and security.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![HTTP](https://img.shields.io/badge/-HTTP-444444?style=flat)
 
 ### ☁️ Cloud & Infra
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat)
-![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
 ### 📊 Data & Experiments
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Time-Series](https://img.shields.io/badge/-Time_Series_Analysis-444444?style=flat)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-444444?style=flat)
+
+### 🤖 AI, Automation & Scraping
+![RAG](https://img.shields.io/badge/-RAG-444444?style=flat)
+![Agentic AI](https://img.shields.io/badge/-Agentic_AI-444444?style=flat)
+![Google Vision](https://img.shields.io/badge/-Google_Vision_API-4285F4?style=flat&logo=google&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/-Web_Scraping-444444?style=flat)
 
 ### 🔐 Security
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat)
